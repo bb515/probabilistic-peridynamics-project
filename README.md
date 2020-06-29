@@ -1,6 +1,6 @@
 # Probabilistic Peridynamics
 
-This is an archived version of Ben Boys contributions to the 'Probabilistic Peridynamics' code as of June 2020. For the most recent version please see:
+This is an archived version of Ben Boys' contributions to the 'Probabilistic Peridynamics' code as of June 2020. For the most recent version please see:
 https://github.com/alan-turing-institute/Probabilistic-Peridynamics
 Code base for 'Probabilistic Peridynamics' collaboration between Exeter, Cambridge &amp; Turing
 
